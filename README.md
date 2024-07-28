@@ -40,11 +40,11 @@
 
 **Credit**
 
-### This app inspired from [Weather App Freebie] concept Designed by [Raman Yv] 
+### This app inspired from [Weather App Freebie] .
 
 # License
 
-    Copyright 2019 Behrouz Khezry
+    Copyright 2024 Md Sakeel
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
